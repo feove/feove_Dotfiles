@@ -11,6 +11,12 @@ export ZSH="$HOME/.oh-my-zsh"
 # Set name of the theme to load --- use powerlevel10k
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
+#Python
+export PATH=$PATH:/home/feove/.local/bin
+
+#Dotnet
+export PATH=$PATH:/usr/local/share/dotnet
+
 
 #Zig
 
@@ -38,6 +44,7 @@ alias dwl="cd ~/Downloads && clear && ls"
 alias proj="cd ~/Documents/Projects && clear && ls"
 alias spe="cd ~/Documents/School/ && clear && ls"
 alias pics="cd ~/Pictures/ && clear && ls"
+alias laco="systemctl restart NetworkManager && reboot"
 
 alias open=eog
 #Tools
@@ -96,3 +103,6 @@ function check_b {
 zle -N check_b
 
 bindkey "^M" check_b
+export PATH=$PATH:/usr/bin
+export PATH=$PATH:/usr/lib64/dotnet
+export PATH=$PATH:/usr/share/dotnet
