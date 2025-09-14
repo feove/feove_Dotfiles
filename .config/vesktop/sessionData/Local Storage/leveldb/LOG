@@ -1,0 +1,14 @@
+2025/09/14-02:20:51.525 9b08 Reusing MANIFEST /home/feove/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/09/14-02:20:51.531 9b08 Recovering log #8
+2025/09/14-02:20:51.532 9b08 Reusing old log /home/feove/.config/vesktop/sessionData/Local Storage/leveldb/000008.log 
+2025/09/14-02:22:51.697 9b09 Level-0 table #12: started
+2025/09/14-02:22:51.702 9b09 Level-0 table #12: 68162 bytes OK
+2025/09/14-02:22:51.704 9b09 Delete type=0 #8
+2025/09/14-02:22:51.704 9b09 Compacting 4@0 + 0@1 files
+2025/09/14-02:22:51.706 9b09 Generated table #13@0: 95 keys, 96265 bytes
+2025/09/14-02:22:51.706 9b09 Compacted 4@0 + 0@1 files => 96265 bytes
+2025/09/14-02:22:51.708 9b09 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/14-02:22:51.708 9b09 Delete type=2 #9
+2025/09/14-02:22:51.708 9b09 Delete type=2 #12
+2025/09/14-02:22:51.708 9b09 Delete type=2 #6
+2025/09/14-02:22:51.708 9b09 Delete type=2 #3
