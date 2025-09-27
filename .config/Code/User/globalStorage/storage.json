@@ -1,0 +1,65 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "01f0db55498dd970fc1dbfe358197eddbbf221e536abd4db92014d47f452feb9",
+    "telemetry.devDeviceId": "08f45238-d6a9-4a7a-89c1-b8ad7091ef8f",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1758800937998"
+            }
+        ]
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1758800937998": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/feove/.config/Code/Backups/1758800937998",
+            "uiState": {
+                "mode": 1,
+                "x": 1226,
+                "y": 8,
+                "width": 685,
+                "height": 1012,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    }
+}
