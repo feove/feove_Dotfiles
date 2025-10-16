@@ -4,19 +4,27 @@
     "telemetry.devDeviceId": "08f45238-d6a9-4a7a-89c1-b8ad7091ef8f",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1758800937998"
+                "folderUri": "file:///home/feove/Documents/epita/epita-ing-assistants-acu-nano-2028-ing1-leo.sibour"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "windowControlHeight": 42,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1758800937998": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/feove/Documents/projects/binary-puzzle_solver": "__default__profile__",
+            "file:///home/feove/Documents/epita/tinyprintf": "__default__profile__",
+            "file:///home/feove/Documents/epita/epita-ing-assistants-acu-pico-2028-ing1-leo.sibour": "__default__profile__",
+            "file:///home/feove/Documents/epita/epita-ing-assistants-acu-piscine-2028-ing1-leo.sibour/my_memcmp": "__default__profile__",
+            "file:///home/feove/Documents/epita/epita-ing-assistants-acu-piscine-2028-ing1-leo.sibour/int_vector_max": "__default__profile__",
+            "file:///home/feove/Documents/epita/epita-ing-assistants-acu-piscine-2028-ing1-leo.sibour/int_vector_hill": "__default__profile__",
+            "file:///home/feove/Documents/epita/epita-ing-assistants-acu-piscine-2028-ing1-leo.sibour/heap": "__default__profile__",
+            "file:///home/feove/Documents/epita/epita-ing-assistants-acu-piscine-2028-ing1-leo.sibour/dlist": "__default__profile__",
+            "file:///home/feove/Documents/epita/epita-ing-assistants-acu-nano-2028-ing1-leo.sibour": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "theme": "vs-dark",
     "themeBackground": "#1f1f1f",
@@ -42,24 +50,69 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
-            "auxiliaryBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/feove/.config/Code/Backups/1758800937998",
+            "folder": "file:///home/feove/Documents/epita/epita-ing-assistants-acu-nano-2028-ing1-leo.sibour",
+            "backupPath": "/home/feove/.config/Code/Backups/ddf4ee1a0532f18777ca2c9f896faf03",
             "uiState": {
                 "mode": 1,
-                "x": 1226,
+                "x": 1928,
                 "y": 8,
-                "width": 685,
-                "height": 1012,
+                "width": 1908,
+                "height": 1029,
                 "zoomLevel": 1
             }
         },
         "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "2bcb0944072477b10e491ac3f64bb6be": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6315f17df5a9351d809aa66166d4aa5e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0d7d4a82245b81718e9a75881314e6df": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "560e3a5e66e1ef00f2c2f06196815f5e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "dde09727066fda3db3cef4f64e370ddf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f5d367476813ed03da1e2705bde52256": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e428efc96529ed0982df5df24d995e42": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9e99d9d21a14f4a498bf64b1ec36dcd3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "f6401d753cd018cdc9f37bf0eb256def": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
     }
 }
