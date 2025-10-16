@@ -1,3 +1,5 @@
 .config/vesktop/
 .config/zig/
 .config/chromium/
+.config/Code/
+.config/libreoffice
